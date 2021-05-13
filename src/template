@@ -1,0 +1,30 @@
+# GENERATED CODE. DO NOT MODIFY
+import numpy as np
+import time
+import keyboard
+import math
+import random
+import util
+import sys
+SIZE = (1000, 1000)
+image = util.get_blank_array(SIZE)
+count = 0
+print("\n...RENDERING...")
+for x in np.arange(SIZE[0]):
+    for y in np.arange(SIZE[1]):
+
+        print(f"\rPROGRESS: {round(count / (SIZE[0] * SIZE[1]) * 100, 1)}%", end='')
+        count += 1
+print("\nRENDER COMPLETE")
+util.quick_show(image)
+print('PRESS "1" TO SAVE AND "2" TO SKIP')
+while 1:
+    if keyboard.is_pressed('1'):
+        name = f"{time.time()}out.png"
+        util.save_array_as_img(name, image)
+        print(f"SAVED AS {name}")
+        break
+    if keyboard.is_pressed('2'):
+        print("NO SAVE")
+        break
+print("FINISHED")
