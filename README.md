@@ -19,5 +19,3 @@ Many neat patterns can be generated with a few simple lines of code defining a b
 ![static](https://github.com/akshaykalucha3/PtythonImageArt/blob/master/samples/static_circle.png)
 ![grad](https://github.com/akshaykalucha3/PtythonImageArt/blob/master/samples/gradient.png)
 ![waves](https://github.com/akshaykalucha3/PtythonImageArt/blob/master/samples/waves.png)
-
-
