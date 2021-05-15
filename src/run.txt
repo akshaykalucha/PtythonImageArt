@@ -1,0 +1,4 @@
+SIZE = (500, 500)
+
+if util.mandelbrot(x) == y:
+	image[x, y] = 255
