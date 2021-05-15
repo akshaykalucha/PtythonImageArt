@@ -1,4 +1,16 @@
-SIZE = (500, 500)
+WIDTH = 100
+HEIGHT = 100
 
-if util.mandelbrot(x) == y:
-	image[x, y] = 255
+RE_START = -2
+RE_END = 1
+IM_START = -1
+IM_END = 1
+SIZE = (WIDTH, HEIGHT)
+
+for x in range(0, WIDTH):
+	for y in range(0, HEIGHT):
+		c = complex(RE_START + (x / WIDTH) * (RE_END - RE_START), IM_START + (y / HEIGHT) * (IM_END - IM_START))
+		m = util.mandelbrot(c)
+		# The color depends on the number of iterations
+		color = 255 - int(m * 255 / util.MAX_ITER)
+		image[x, y] = (color, color, color)
