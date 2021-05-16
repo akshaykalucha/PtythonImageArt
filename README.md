@@ -1,3 +1,9 @@
+**Table of Contents**
+- [Python graphic Art](#PythonImageArt)
+- [Python geometrics blueprint](#BlueprintArt)
+
+
+
 # PythonImageArt
 Using code to make art.
 Many neat mathematical art patterns can be easily generated with few simple lines of code defining basic math rules
@@ -74,3 +80,5 @@ These are just few examples:
 ![grad](https://raw.githubusercontent.com/akshaykalucha3/PtythonImageArt/master/samples/gradient.png)
 </br>
 ![waves](https://raw.githubusercontent.com/akshaykalucha3/PtythonImageArt/master/samples/waves.png)
+
+# BlueprintArt
