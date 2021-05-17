@@ -1,6 +1,7 @@
 **Table of Contents**
 - [Python graphic Art](#PythonImageArt)
 - [Python geometrics blueprint](#BlueprintArt)
+- [Visualisations](#Visualisations)
 
 
 
@@ -81,4 +82,18 @@ These are just few examples:
 </br>
 ![waves](https://raw.githubusercontent.com/akshaykalucha3/PtythonImageArt/master/samples/waves.png)
 
+</br>
+
+
 # BlueprintArt
+
+A simple shape construction & geometrics visualistaion app built using pygame library, you can visualise many different mathematical curves & geometrical shapes using this.
+
+# Run
+To run the python file, go to bluePrintArt/src and run ```main.py``` file, type "M" after the image screen shows up to toggle to default view menu.
+
+# Visualisations 
+- Press following keys to enter the respected mode after toggling to menu view
+<h3> <i>Circle: C</h3>
+<h3> Bézier curves: B</h3>
+<h3> Line: L<i></h3>
