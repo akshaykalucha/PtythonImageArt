@@ -97,3 +97,13 @@ To run the python file, go to bluePrintArt/src and run ```main.py``` file, type 
 <h3> <i>Circle: C</h3>
 <h3> Bézier curves: B</h3>
 <h3> Line: L<i></h3>
+
+# Examples
+
+![mandel](https://raw.githubusercontent.com/akshaykalucha3/PtythonImageArt/master/samples/mandelbrot_hd.png)
+![ball](https://raw.githubusercontent.com/akshaykalucha3/PtythonImageArt/master/samples/ball.png)
+![bwgrad](https://raw.githubusercontent.com/akshaykalucha3/PtythonImageArt/master/samples/4kbg.png)
+![sin](https://raw.githubusercontent.com/akshaykalucha3/PtythonImageArt/master/samples/sin.png)
+![static](https://raw.githubusercontent.com/akshaykalucha3/PtythonImageArt/master/samples/static_circle.png)
+![grad](https://raw.githubusercontent.com/akshaykalucha3/PtythonImageArt/master/samples/gradient.png)
+![waves](https://raw.githubusercontent.com/akshaykalucha3/PtythonImageArt/master/samples/waves.png)
