@@ -9,7 +9,7 @@
 Using code to make art.
 Many neat mathematical art patterns can be easily generated with few simple lines of code defining basic math rules
 
-run ```python runfile.py``` after editing ```run.txt`` to produce the image.
+run ```python runfile.py``` after editing ```run.txt``` to produce the image.
 
 Edit ```run.txt``` file to generate images, the below format is the required syntax:
 Notice that in canvas, always make sure to specify ```SIZE``` first
@@ -100,8 +100,12 @@ To run the python file, go to bluePrintArt/src and run ```main.py``` file, type 
 
 # Examples
 
-![bezgif] (https://raw.githubusercontent.com/akshaykalucha3/PtythonImageArt/master/blueprintArt/images/bezier.gif)
+![bezgif](https://raw.githubusercontent.com/akshaykalucha3/PtythonImageArt/master/blueprintArt/images/bezier.gif)
+
 ![example_2](https://raw.githubusercontent.com/akshaykalucha3/PtythonImageArt/master/blueprintArt/images/example_2.png)
-![example_3](https://raw.githubusercontent.com/akshaykalucha3/PtythonImageArt/master/blueprintArt/images/bexample_3.png)
+
+![example_3](https://raw.githubusercontent.com/akshaykalucha3/PtythonImageArt/master/blueprintArt/images/example_3.png)
+
 ![example_4](https://raw.githubusercontent.com/akshaykalucha3/PtythonImageArt/master/blueprintArt/images/example_4.png)
+
 ![example](https://raw.githubusercontent.com/akshaykalucha3/PtythonImageArt/master/blueprintArt/images/example.png)
